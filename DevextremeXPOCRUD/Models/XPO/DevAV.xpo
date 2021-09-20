@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9fec336e-56b0-4e17-a921-52a11a5d61d3" namespace="DevextremeXPOCRUD.Models.XPO.PracticeDB" dataBaseShemaInfo="H4sIAAAAAAAEAO1Y227jNhB9X2D/QdBTC4TWjZKohexFLCuBsd2skUuxfQpIceQIlSVXFyfu15eS5YscJ04cN8B264fEczicmaMZDsdyPz9MYmkGWR6lSVfWOqr8uffxg9unOVwVaUbHMEzCVBJaSf7pIY+68l1RTD8pyv39fefe6KTZWNFVVVO+f/3tKriDCUVRkhc0CUBe7eL7d8nCqyS515TFkFcua3mJbABLSLqgE+jK3um1f/7t8g95tSwURlk0odn8C8wbrdGX29ul5u2toWvY93T7zCEW8X0iS8P8Jon+KoVmkZWwaUtY89K4nCR5CxRwXmRRMu4NB67SfG3tUh5vc5V1YJvwLgfuoL+ApcW/6/lURDdMCkOXG1LDQRW4sNVELYQhh6SIig3koozj6nF15ZDGuYAG/crUwkKUFLKkvMDvVU1w6fji9KsvS1fR3+K7pqptm8mMZsEdzX4RK7+2re98JsOEwwM8Il/DR8jek/nbm8Hd8VZoE12L2WMa7lmaQTRORILyjcfgKnX5rmU/qeUqdFdphNXiIMor4GbKaQG9OoXCfwtc6Z6XER/ynqEBNxyLooCDjbDjEOSoFkcG54EehkEgEFdplFebG6atg/YkLBaqzCwW6+e3IbbUniP3WoKbJG0Dm9w2AhQAJQhjx0JMDThSQ922MA05NsJHJDcyegjPquzfn6luGRq1GEHMpBThgIaI6RYgplEIGQ2Z6tgvZroLbQryFT3Xn0zjdA6tk/a6JmZhecvWkO/tViwaH9iwlk4q6cnG9XTfep0TT/TfA5w81xzbii/sK7VYee0tI2tUamy7/TT1eIT+ozYftOPP8nPU/rMuob2nczfLtxzPg9i+sRFtlvNPRrk6XD865eM04dHlt8GNd71/7m0U14OT4fv+4FTt/z/27vN7nLH3RaxGl0PPPzDMliFP1PA4zebVhfqstbdM4wfW1M83jKu6ypllM6TqYgTHjBqImhZDemhilWhWYDLjhx/GVWxj4jgO0nTTQlgjNnI04iAjpNSxiK6boP83hnEWWjoHS0caMQBhYmPELK4hCLnBiRXaEBydad0Z3p+qwUOT2oGFDAtMhG01QAQ08YOSU4wDgsVPrKNTXfeu9+erYZMEDtORzUwmUmsQRAlmyBTHVCWBZr2miF9yxTfyWsWtXrgBH2VpUINNn3J/X7yd6w1g5j9MM8jzzoAWtDPTtY52IjXL3UrqmB31RPLKuCgz6CZQFhmNT6RRyeIoEL3vOv0Tki4jhGu2ibmtqoAd6ipLF7U/L6Z5DnmVgMty9XTdUy5CgzB66H0fucpaWi9flaEAVu3VvYRJOoOF2ja6revRHHo3ibhCkzGI9Nfy4jHtikeMOukUsiJ6Js618X8vtifCcM8hgUyUmpdOJmI2yZt6fQS3lAeQiysKsrNIlMXWjvZavW0AMRRwmudpENFCpG+5Z8dCvWE5FPXhjs6iNOv15zfipsziubhuq0lBnLptlY8fXGXrZXDvH79t/wE1FgAA" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" nullableBehavior="ByUnderlyingType" connectionStringName="VM-PurushomPracticeDB" createdInVersion="21.1.5.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="true" lastModifiedInVersion="21.1.5.0" name="PracticeDB" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <comments>
+    <dataBaseObjectModelHasComments Id="e6bf24f4-fc92-4fc5-8920-ec47e78762b5">
+      <comment Id="47b11ed4-a19f-487e-8a0e-ecb242f01e70" text="The 'PK__CATEGORY__3214EC27F9868EE8' index is ignored, because 'ID' is a key" name="XPCATEGORYComment">
+        <subjects>
+          <commentReferencesSubjects Id="a7484ec8-ca8b-4bd1-8cea-999b1cf0309a">
+            <xpObjectMoniker Id="31ed396a-cde7-4998-906d-3ddc2ffcc998" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="ba161ca4-e4fd-4033-be36-da555719e921">
+      <comment Id="480350f8-c571-4826-be19-47158b19212a" text="The 'PK__PRODUCT__3214EC273EEEDA0B' index is ignored, because 'ID' is a key" name="XPPRODUCTComment">
+        <subjects>
+          <commentReferencesSubjects Id="596cc768-1d06-4648-99e9-8f405a828397">
+            <xpObjectMoniker Id="020db67b-026d-4ba3-a56b-2f540816c5b3" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+  </comments>
+  <classes>
+    <dataBaseObjectModelHasClasses Id="f828e325-a447-4979-8289-ee88aabc9145">
+      <xpObject Id="31ed396a-cde7-4998-906d-3ddc2ffcc998" name="XPCATEGORY" baseClass="XPLiteObject" userFileName="XPCATEGORY" designerFileName="XPCATEGORY.Designer" className="XPCATEGORY" initialName="XPCATEGORY" virtualBaseClass="XPLiteObject" persistent="CATEGORY" virtualName="XPCATEGORY">
+        <fields>
+          <generalXpObjectHasFields Id="b2058da5-c8c0-49c8-a507-052cd06ea8de">
+            <field Id="7345d73c-cea8-4496-b0cd-0f2764afd43f" name="ID" columnType="Int32" initialName="ID" key="true" isIdentity="true" persistent="ID" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6cfa4e1f-e8f7-4920-84c1-a435cd3afad4">
+            <field Id="2631a6b8-b5aa-4caf-b26e-b1aefbafb097" name="NAME" initialName="NAME" persistent="NAME" virtualColumnType="String" delayedUpdateModifiedOnly="false" isNullable="true" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="5bf9e53f-d4eb-4081-a09e-659708401502">
+      <xpObject Id="020db67b-026d-4ba3-a56b-2f540816c5b3" name="XPPRODUCT" baseClass="XPLiteObject" userFileName="XPPRODUCT" designerFileName="XPPRODUCT.Designer" className="XPPRODUCT" initialName="XPPRODUCT" virtualBaseClass="XPLiteObject" persistent="PRODUCT" virtualName="XPPRODUCT">
+        <fields>
+          <generalXpObjectHasFields Id="0edfba03-f9a2-429d-b67e-6725bd252b43">
+            <field Id="04748999-1256-4187-9189-3faa968225e2" name="ID" columnType="Int32" initialName="ID" key="true" isIdentity="true" persistent="ID" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9255427e-f759-47ce-9975-8983367e46f1">
+            <field Id="bf62de62-183e-4874-b6d1-efd3d86f7ec2" name="NAME" initialName="NAME" persistent="NAME" virtualColumnType="String" delayedUpdateModifiedOnly="false" isNullable="true" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e10c2a5d-5d87-4e17-8758-ed2c4b5c83d4">
+            <field Id="3df5a7c6-36e5-470c-8e17-4da44c84fd42" name="PRICE" columnType="Int32" initialName="PRICE" persistent="PRICE" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" isNullable="true" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="814da6b9-366a-44e0-a809-ab0143bda025">
+            <field Id="1458c9b2-7b5b-4838-a84b-508108c165e2" name="CategoryId" columnType="Int32" initialName="CategoryId" persistent="CategoryId" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" isNullable="true" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>
